@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Blago, a Junior Software Developer from Spain<br>Welcome to my page</h2>
+<h2 align="left">Hi 👋! I'm Blago, a Junior Software Developer from Spain</h2>
 
 ###
 
