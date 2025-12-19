@@ -45,9 +45,15 @@
   </a>
 </div>
 
-###
-
 <br clear="all">
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LilShineGang&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilShineGang&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
+</div>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LilShineGang/LilShineGang/output/github-contribution-grid-snake-dark.svg">
